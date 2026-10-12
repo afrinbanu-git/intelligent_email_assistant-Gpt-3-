@@ -1,0 +1,6 @@
+pricing=Our basic plan starts at $10/month with premium options.
+refund=Refunds are available within 30 days of purchase. Please share your order ID.
+support=You can reach our support team at support@example.com, 24/7.
+delivery=Standard delivery usually takes 3 to 5 business days.
+faq = load_faq()
+check_faq(email_text)
